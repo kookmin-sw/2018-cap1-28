@@ -1,6 +1,7 @@
 ### 1. 프로잭트 소개
 
-<img src=./doc/intro/health_care.jpg width="30%" height="30%">
+
+![Alt text](/doc/intro/health_care.jpg)
 
 라이프 트랙킹(feat. 헬스케어) 서비스 구현
 
@@ -19,11 +20,11 @@
 
 - 28조 캥거루: https://kookmin-sw.github.io/2018-cap1-28
 
-<img src=./doc/intro/swallaby.JPG width="30%" height="30%">
+![Alt text](/doc/intro/swallaby.JPG)
 
 - 소프트웨어학부 이동근: https://github.com/indam94
 
-<img src=./doc/intro/LEEDONGGUN.jpeg width="30%" height="30%">
+![Alt text](/doc/intro/LEEDONGGUN.jpeg)
 
 ### 4. 사용법
 

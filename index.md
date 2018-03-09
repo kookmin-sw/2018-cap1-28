@@ -15,15 +15,15 @@
 ### 2. 소개 영상
 
 워크온 서비스에 대한 간략한 영상으로 대체합니다.
-[Link](https://www.youtube.com/embed/6Az2cNU7gUw)
+[영상](https://www.youtube.com/embed/6Az2cNU7gUw)
 
 ### 3. 팀 소개
 
-- 28조 캥거루: [Link](https://kookmin-sw.github.io/2018-cap1-28)
+- [ 28조 캥거루](https://kookmin-sw.github.io/2018-cap1-28)
 
 ![Alt text](/doc/intro/swallaby.JPG)
 
-- 소프트웨어학부 이동근: [Link](https://github.com/indam94)
+- [소프트웨어학부 이동근](https://github.com/indam94)
 
 ![Alt text](/doc/intro/LEEDONGGUN.jpeg)
 

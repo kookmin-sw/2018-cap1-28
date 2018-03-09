@@ -14,7 +14,7 @@
 ### 2. 소개 영상
 
 워크온 서비스에 대한 간략한 영상으로 대체합니다.
-https://www.youtube.com/embed/6Az2cNU7gUw
+https://youtu.be/lT-ZIKJYpsw
 
 ### 3. 팀 소개
 

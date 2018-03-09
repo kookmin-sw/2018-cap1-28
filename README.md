@@ -13,7 +13,8 @@
  
 ### 2. 소개 영상
 
-향후 업데이트 예정
+워크온 서비스에 대한 간략한 영상으로 대체합니다.
+<iframe width="640" height="360" src="https://www.youtube.com/embed/6Az2cNU7gUw" frameborder="0" gesture="media" allowfullscreen=""></iframe>
 
 ### 3. 팀 소개
 

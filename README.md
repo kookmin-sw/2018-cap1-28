@@ -11,6 +11,14 @@
  사람들에게 좀 알맞고 취향을 맞춰주는 혜택을 제시하기 위해 '라이프 트랙킹' 서비스를 추가하고자 한다.
  라이프 트랙킹은 사람들의 데이터를 추적하고 분석해 취향이나 행동을 분석하는 것을 의미한다.
  
+### 1-1. Abstract
+ With the development of science and technology, modern people enjoy a convenient life through smart phones.
+ This convenience, however, has created a problem of lack of exercise and raised many issues and concerns in terms of health.
+ So, there are healthcare service apps that can manage people's health through smartphone.
+ If you take a step, you will receive the same benefits from the "Walk on" service, which is a healthcare app that returns benefits.
+ I would like to add a 'life-tracking' service to show people the benefits of tailoring them to fit.
+ Life tracking means tracking and analyzing people's data to analyze their taste or behavior.
+  
 ### 2. 소개 영상
 
 워크온 서비스에 대한 간략한 영상으로 대체합니다.
